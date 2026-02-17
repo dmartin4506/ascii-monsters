@@ -40,7 +40,7 @@ A complete terminal-based RPG adventure game with 30 creatures, evolution chains
 ## File Structure
 
 ```
-claude-code-tutorial/
+ascii-monsters/
 ├── ascii_rpg.py           # Main game loop (orchestration)
 ├── creatures.py           # Creature class with level/exp/evolution
 ├── moves.py              # Move class, database, type effectiveness
@@ -68,7 +68,7 @@ pip install colorama
 
 ### Run the game
 ```bash
-cd claude-code-tutorial
+cd ascii-monsters
 python3 ascii_rpg.py
 ```
 

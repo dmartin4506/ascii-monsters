@@ -87,7 +87,7 @@ data/creature_data.py 870 lines  - Complete creature database
 ## 🎮 How to Play
 
 ```bash
-cd claude-code-tutorial
+cd ascii-monsters
 python3 ascii_rpg.py
 ```
 
